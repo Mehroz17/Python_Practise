@@ -1,0 +1,360 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2010-06-20T13:34:58.550Z,27.845,54.34,10,4.5,mb,62,48.6,,1.04,us,usp000heaf,2014-11-07T01:41:43.240Z,"27 km NE of Ger?sh, Iran",earthquake,,,,15,reviewed,us,us
+2020-08-25T12:16:02.532Z,27.8435,53.2407,10,4.7,mb,,71,3.923,0.67,us,us7000bcl2,2020-10-31T19:06:26.040Z,"47 km NE of Mohr, Iran",earthquake,7.9,1.9,0.051,116,reviewed,us,us
+2012-01-14T20:15:17.030Z,27.839,53.985,10,4.6,mb,90,63.6,,1.04,us,usp000jdgu,2014-11-07T01:46:47.221Z,"23 km NW of Ger?sh, Iran",earthquake,,,,30,reviewed,us,us
+2020-08-31T03:36:52.608Z,27.8389,53.1455,10,5.2,mww,,41,3.978,0.96,us,us7000bf5e,2020-11-07T18:48:39.040Z,"40 km NE of Mohr, Iran",earthquake,6.9,1.8,0.078,16,reviewed,us,us
+2017-04-28T13:00:44.550Z,27.8231,54.7855,10,4.2,mb,,89,3.135,1.16,us,us10008lkn,2017-07-21T02:32:09.040Z,"66 km ENE of Ger?sh, Iran",earthquake,8.7,1.9,0.112,22,reviewed,us,us
+2020-06-10T05:52:14.272Z,27.8133,53.129,10,4.4,mb,,105,3.97,0.8,us,us6000a951,2020-08-22T19:14:41.040Z,"37 km NE of Mohr, Iran",earthquake,9.1,1.9,0.098,30,reviewed,us,us
+2021-07-06T11:44:33.086Z,27.8046,53.2176,10,4.7,mb,,44,3.909,0.31,us,us7000ej30,2021-09-10T20:07:13.040Z,"43 km NE of Mohr, Iran",earthquake,6.9,1.8,0.052,115,reviewed,us,us
+2020-08-21T05:16:05.781Z,27.8023,53.2068,10,4.1,mb,,104,3.914,0.62,us,us6000bi70,2020-10-31T19:06:13.040Z,"42 km NE of Mohr, Iran",earthquake,8.9,1.9,0.12,19,reviewed,us,us
+2017-12-24T10:57:17.070Z,27.7982,53.449,10,4.2,mb,,126,3.765,1.12,us,us1000bvlv,2018-03-17T01:54:33.040Z,"61 km ENE of Mohr, Iran",earthquake,12.3,2,0.105,25,reviewed,us,us
+2020-09-19T17:01:34.151Z,27.7965,53.1233,10,4.1,mb,,73,3.962,0.97,us,us6000c0ia,2020-11-28T21:31:54.040Z,"35 km NE of Mohr, Iran",earthquake,10.7,1.9,0.127,19,reviewed,us,us
+2015-05-24T09:10:40.420Z,27.7955,52.8116,10,4.4,mb,,107,4.161,0.28,us,us20002lnw,2015-07-29T01:35:39.040Z,"27 km NNW of Mohr, Iran",earthquake,9.3,2,0.241,5,reviewed,us,us
+2014-12-27T12:00:13.300Z,27.794,54.021,5.4,4.3,mb,,,,0.87,us,usc000ta7h,2015-03-17T02:37:27.040Z,"17 km NW of Ger?sh, Iran",earthquake,8.2,4.9,0.147,19,reviewed,teh,us
+2020-06-13T22:04:16.539Z,27.7921,53.3816,10,4.8,mb,,42,3.801,0.66,us,us6000abi5,2020-08-22T19:14:50.040Z,"55 km ENE of Mohr, Iran",earthquake,7.2,1.8,0.051,121,reviewed,us,us
+2014-11-15T22:29:23.900Z,27.792,54.139,9.4,3.9,mb,,,,0.99,us,usc000sxpn,2015-02-12T01:42:49.040Z,"13 km N of Ger?sh, Iran",earthquake,4.8,3.5,0.115,22,reviewed,teh,us
+2014-03-18T19:01:30.480Z,27.7816,52.6935,8.31,4.7,mb,,44,1.636,0.92,us,usc000nftr,2014-05-16T21:51:48.000Z,"31 km NW of Mohr, Iran",earthquake,,3.8,0.049,131,reviewed,us,us
+2020-08-31T15:57:21.302Z,27.7789,53.2136,10,4.2,mb,,105,3.893,0.58,us,us7000bfa8,2020-11-07T18:48:40.040Z,"40 km NE of Mohr, Iran",earthquake,5.9,1.8,0.128,18,reviewed,us,us
+2020-06-14T18:06:01.738Z,27.7759,53.3785,10,5.2,mww,,39,3.791,0.81,us,us6000abr2,2020-08-22T19:14:51.040Z,"54 km ENE of Mohr, Iran",earthquake,7,1.8,0.069,20,reviewed,us,us
+2020-09-08T01:34:19.795Z,27.775,53.2128,10,4.4,mb,,42,3.891,0.78,us,us7000bji4,2020-11-17T19:44:53.040Z,"40 km NE of Mohr, Iran",earthquake,7.9,1,0.078,50,reviewed,us,us
+2019-11-13T16:28:21.827Z,27.7658,53.0613,10,4.3,mb,,73,3.979,0.51,us,us60006b3t,2020-02-07T20:20:39.040Z,"29 km NE of Mohr, Iran",earthquake,4.2,1.9,0.1,28,reviewed,us,us
+2019-11-13T17:57:47.385Z,27.7649,53.1371,10,4.3,mb,,73,3.931,1.2,us,us60006b67,2020-02-07T20:20:40.040Z,"34 km NE of Mohr, Iran",earthquake,7.6,1.9,0.094,32,reviewed,us,us
+2020-06-09T16:08:50.970Z,27.7645,53.3446,10,5.5,mww,,73,3.803,0.75,us,us6000a8lw,2022-03-10T05:22:08.263Z,"51 km ENE of Mohr, Iran",earthquake,6.8,1.9,0.052,36,reviewed,us,us
+2020-07-10T20:14:06.589Z,27.7618,53.5054,10,4.9,mb,,29,3.705,0.77,us,us7000almy,2020-09-19T20:58:05.040Z,"63 km W of Ger?sh, Iran",earthquake,3.7,1.8,0.041,193,reviewed,us,us
+2014-11-06T01:14:26.600Z,27.76,54.1,14,4.2,mb,,,,1.1,us,usc000suv0,2015-01-31T02:50:03.040Z,"10 km NNW of Ger?sh, Iran",earthquake,5.4,2.4,0.11,25,reviewed,thr,us
+2011-01-09T13:13:09.230Z,27.76,54.11,32.8,4.2,mb,43,43.4,,1.09,us,usp000hstr,2014-11-07T01:43:24.359Z,"10 km NNW of Ger?sh, Iran",earthquake,,15.7,,9,reviewed,us,us
+2020-06-21T08:05:42.145Z,27.7565,53.2438,10,4.1,mb,,105,3.859,0.99,us,us6000aftj,2020-08-30T00:00:59.040Z,"41 km ENE of Mohr, Iran",earthquake,6,2,0.123,18,reviewed,us,us
+2017-08-10T13:50:14.330Z,27.7561,53.3173,10,4.1,mb,,104,3.813,1.29,us,us2000a8eg,2017-10-25T00:38:07.040Z,"48 km ENE of Mohr, Iran",earthquake,10.5,2,0.135,15,reviewed,us,us
+2014-11-09T07:58:05.900Z,27.756,54.272,9.1,4.1,mb,,,,1.03,us,usb000sysj,2015-01-31T02:50:12.040Z,"16 km NE of Ger?sh, Iran",earthquake,5.5,5,0.151,13,reviewed,teh,us
+2016-07-26T10:24:46.770Z,27.7542,54.6257,10,4.1,mb,,92,3.135,0.67,us,us20006hr1,2016-09-24T22:47:20.040Z,"49 km E of Ger?sh, Iran",earthquake,5.4,1.8,0.117,20,reviewed,us,us
+2020-05-31T23:59:02.351Z,27.7516,53.3194,10,4.9,mww,,20,3.809,0.67,us,us6000a3db,2020-08-15T20:19:59.040Z,"48 km ENE of Mohr, Iran",earthquake,7,1.7,0.093,11,reviewed,us,us
+2014-11-16T11:46:24.000Z,27.75,54.12,5,4.4,mb,,,,1.75,us,usc000sxu0,2015-02-12T01:42:50.040Z,"9 km N of Ger?sh, Iran",earthquake,10.7,5.9,0.178,9,reviewed,teh,us
+2020-06-13T23:15:05.096Z,27.743,53.2836,10,4.9,mb,,40,3.824,0.57,us,us6000abii,2020-08-22T19:14:50.040Z,"44 km ENE of Mohr, Iran",earthquake,6.9,1.8,0.045,156,reviewed,us,us
+2020-05-12T13:50:52.103Z,27.739,53.5393,10,4.1,mb,,103,3.668,0.8,us,us70009kv1,2020-07-29T22:14:39.040Z,"59 km W of Ger?sh, Iran",earthquake,11.5,1.9,0.158,12,reviewed,us,us
+2018-04-22T01:12:20.770Z,27.7292,53.5128,10,4.5,mb,,71,3.676,0.57,us,us1000dq4p,2018-07-17T02:05:35.040Z,"61 km W of Ger?sh, Iran",earthquake,7.6,1.9,0.053,105,reviewed,us,us
+2020-06-09T17:18:14.071Z,27.7199,53.4201,10,5.7,mww,,19,3.725,0.9,us,us6000a8nh,2022-03-10T05:22:33.070Z,"56 km ENE of Mohr, Iran",earthquake,6.4,1.7,0.053,34,reviewed,us,us
+2010-02-07T21:20:18.500Z,27.719,54.198,36,4.4,mb,61,101.4,,,us,usp000h728,2014-11-07T01:40:40.967Z,"8 km NE of Ger?sh, Iran",earthquake,,,,10,reviewed,teh,us
+2013-11-19T13:31:37.580Z,27.716,53.6484,10,4.7,mb,,46,3.587,0.75,us,usb000l21a,2014-02-11T02:18:50.000Z,"48 km W of Ger?sh, Iran",earthquake,,1.9,0.097,,reviewed,us,us
+2022-02-05T05:34:19.968Z,27.7125,53.3455,10,4.1,mb,,105,3.764,0.56,us,us7000gjp7,2022-04-19T17:39:33.040Z,"48 km ENE of Mohr, Iran",earthquake,7.5,1.9,0.145,13,reviewed,us,us
+2012-09-03T08:40:36.100Z,27.71,52.88,15,4.5,mb,52,76.4,,,us,usp000jrjq,2014-11-07T01:48:46.300Z,"17 km N of Mohr, Iran",earthquake,,,,4,reviewed,thr,us
+2020-07-03T03:46:43.576Z,27.7045,53.5196,10,4,mb,,104,3.654,0.6,us,us7000ah37,2020-09-11T22:13:57.040Z,"60 km W of Ger?sh, Iran",earthquake,5.1,2,0.156,11,reviewed,us,us
+2016-07-26T10:10:40.890Z,27.7034,54.6469,10,4.2,mb,,75,3.081,0.84,us,us100068fk,2016-09-24T22:47:20.040Z,southern Iran,earthquake,8,1.9,0.124,18,reviewed,us,us
+2019-11-26T07:10:51.919Z,27.7,53.0452,10,4.4,mb,,82,3.944,1.44,us,us70006d3l,2020-02-19T18:58:05.040Z,"22 km NE of Mohr, Iran",earthquake,9,1.9,0.103,27,reviewed,us,us
+2020-08-03T11:37:10.260Z,27.6938,52.5307,10,4.6,mb,,58,4.284,0.61,us,us6000b8pa,2020-10-10T17:11:11.040Z,"38 km WNW of Mohr, Iran",earthquake,6.2,1.8,0.049,124,reviewed,us,us
+2019-04-11T01:39:54.164Z,27.6924,54.1493,10,4,mb,,98,3.299,0.68,us,us7000347r,2019-06-20T19:03:14.040Z,"2 km NNE of Ger?sh, Iran",earthquake,5.8,1.9,0.149,12,reviewed,us,us
+2014-06-08T06:09:59.300Z,27.689,54.384,17.5,4.1,mb,,,,1.4,us,usc000rl0g,2014-08-30T17:03:00.000Z,"24 km E of Ger?sh, Iran",earthquake,,4.8,0.126,17,reviewed,teh,us
+2019-07-16T12:02:26.976Z,27.6805,53.2588,10,4.5,mb,,73,3.795,0.66,us,us70004lbp,2019-10-04T16:37:02.040Z,"39 km ENE of Mohr, Iran",earthquake,7.2,1.8,0.062,76,reviewed,us,us
+2017-04-20T15:49:45.690Z,27.6796,53.1761,10,4.3,mb,,78,3.847,0.79,us,us10008n4x,2017-07-11T01:48:38.040Z,"31 km ENE of Mohr, Iran",earthquake,6.6,1.9,0.122,21,reviewed,us,us
+2020-06-10T04:02:28.017Z,27.6792,53.3939,10,4.4,mb,,71,3.711,0.55,us,us6000a936,2020-08-22T19:14:40.040Z,"52 km ENE of Mohr, Iran",earthquake,6.6,1.5,0.074,53,reviewed,us,us
+2020-07-04T09:04:28.416Z,27.6694,53.3322,10,4,mb,,106,3.742,0.91,us,us7000aksw,2020-09-11T22:14:10.040Z,"46 km ENE of Mohr, Iran",earthquake,6.1,2,0.119,19,reviewed,us,us
+2020-06-09T17:43:18.284Z,27.6638,53.4338,10,4.1,mb,,104,3.675,0.58,us,us6000a8q5,2020-08-18T17:59:11.040Z,"55 km ENE of Mohr, Iran",earthquake,9.5,1.9,0.083,47,reviewed,us,us
+2018-07-22T05:07:02.460Z,27.6631,54.8786,8,5.4,mww,,27,2.956,0.65,us,us2000gb1e,2022-05-03T19:24:12.780Z,"73 km E of Ger?sh, Iran",earthquake,6.2,1.8,0.071,19,reviewed,us,us
+2013-06-26T08:18:12.290Z,27.662,52.253,16,4.2,mb,32,100,,,us,usc000i0m8,2014-11-07T01:51:07.574Z,"63 km W of Mohr, Iran",earthquake,,,,16,reviewed,teh,us
+2018-07-22T20:59:51.750Z,27.6609,54.9128,10,4.9,mb,,59,2.942,0.66,us,us2000gbeg,2022-05-03T19:24:14.014Z,"76 km E of Ger?sh, Iran",earthquake,8.9,1.9,0.046,146,reviewed,us,us
+2014-01-22T03:26:41.200Z,27.66,54.17,15,4,mb,,,,1.03,us,usb000m631,2014-03-27T18:15:34.000Z,"3 km ESE of Ger?sh, Iran",earthquake,,3.8,0.122,18,reviewed,thr,us
+2019-02-13T09:19:06.060Z,27.6521,52.9744,10,4.3,mb,,85,3.958,0.61,us,us2000jnkx,2019-05-01T22:01:07.040Z,"13 km NE of Mohr, Iran",earthquake,6.5,1.9,0.137,15,reviewed,us,us
+2019-10-04T08:43:09.258Z,27.6516,53.1482,10,4,mb,,107,3.845,0.71,us,us70005tgm,2019-12-27T15:50:22.040Z,"28 km ENE of Mohr, Iran",earthquake,8.5,2,0.164,10,reviewed,us,us
+2010-09-08T12:33:30.000Z,27.65,53.03,18,4.7,mb,49,75,,,us,usp000hkex,2014-11-07T01:42:25.415Z,"17 km NE of Mohr, Iran",earthquake,,,,11,reviewed,teh,us
+2020-06-12T04:04:58.098Z,27.6472,53.3452,10,4,mb,,106,3.718,0.83,us,us6000aaf5,2020-08-22T19:14:46.040Z,"46 km ENE of Mohr, Iran",earthquake,8,1.9,0.113,21,reviewed,us,us
+2018-07-22T05:04:47.330Z,27.6383,54.8788,10,4.6,mb,,53,2.934,0.75,us,us2000gb1c,2018-10-04T14:15:23.040Z,"73 km E of Ger?sh, Iran",earthquake,4.3,1.8,0.045,147,reviewed,us,us
+2020-06-09T22:27:00.711Z,27.6362,53.2165,10,4.3,mb,,79,3.791,0.56,us,us6000a8yt,2020-08-18T17:59:11.040Z,"34 km ENE of Mohr, Iran",earthquake,7.3,1.9,0.078,46,reviewed,us,us
+2020-06-09T19:44:53.892Z,27.6323,53.4934,10,4.2,mb,,105,3.616,0.87,us,us6000a8tr,2020-08-18T17:59:11.040Z,"60 km E of Mohr, Iran",earthquake,7.1,1.8,0.085,42,reviewed,us,us
+2019-06-24T15:14:09.963Z,27.626,53.1401,10,4.3,mb,,76,3.833,0.54,us,us60004599,2019-09-11T15:19:42.040Z,"26 km ENE of Mohr, Iran",earthquake,5.9,1.9,0.111,23,reviewed,us,us
+2017-06-09T10:22:35.770Z,27.6107,55.2718,10,4.4,mb,,99,2.783,0.8,us,us20009mqz,2017-08-16T02:42:21.040Z,"110 km WNW of Bandar Abbas, Iran",earthquake,8.7,1.9,0.203,7,reviewed,us,us
+2014-01-22T03:32:08.000Z,27.605,54.101,14.9,3.8,mb,,,,0.98,us,usb000m7fw,2014-03-27T18:15:34.000Z,"7 km SSW of Ger?sh, Iran",earthquake,,4.7,0.127,16,reviewed,teh,us
+2019-06-28T09:08:56.553Z,27.5877,53.2191,10,4.4,mb,,74,3.755,1.15,us,us700046gt,2019-09-14T16:08:16.040Z,"33 km E of Mohr, Iran",earthquake,7.7,1.9,0.07,59,reviewed,us,us
+2022-01-22T21:54:27.245Z,27.5807,55.689,10,4.1,mb,,121,2.665,0.3,us,us7000gfy2,2022-04-09T20:18:51.040Z,"73 km NW of Bandar Abbas, Iran",earthquake,6.3,1.9,0.184,8,reviewed,us,us
+2014-01-22T03:32:34.010Z,27.572,53.9944,10,4.2,mb,,66,3.283,0.82,us,usc000mk13,2014-03-27T18:15:34.000Z,"17 km SW of Ger?sh, Iran",earthquake,,1.9,0.104,26,reviewed,us,us
+2020-06-24T17:29:33.124Z,27.5685,55.7828,10,4,mb,,77,2.639,0.6,us,us7000aa8h,2020-09-05T17:35:16.040Z,"64 km NW of Bandar Abbas, Iran",earthquake,9.7,1.9,0.122,18,reviewed,us,us
+2014-02-17T04:10:10.000Z,27.56,52.95,7,4.1,mb,,,,1.46,us,usc000mrs0,2014-04-30T21:18:23.000Z,"6 km E of Mohr, Iran",earthquake,,5,0.119,19,reviewed,teh,us
+2020-06-23T11:11:04.650Z,27.5595,55.8104,10,4.1,mb,,127,2.627,0.58,us,us7000af1j,2020-08-30T00:01:25.040Z,"62 km NW of Bandar Abbas, Iran",earthquake,8.2,2,0.166,10,reviewed,us,us
+2016-01-08T20:44:54.180Z,27.5373,53.4801,23.82,4.4,mb,,42,0.342,0.83,us,us10004cf8,2016-03-30T02:27:49.040Z,"58 km E of Mohr, Iran",earthquake,6.5,4.9,0.082,45,reviewed,us,us
+2016-01-12T13:05:27.600Z,27.5347,53.8582,10,4.2,mb,,64,3.329,0.86,us,us10004fdn,2016-03-30T02:27:56.040Z,"31 km WSW of Ger?sh, Iran",earthquake,7.3,1.9,0.118,20,reviewed,us,us
+2018-02-26T15:27:36.860Z,27.5228,54.3708,10,4.4,mb,,99,3.049,0.52,us,us2000dd5v,2018-05-27T01:06:02.040Z,"28 km SE of Ger?sh, Iran",earthquake,9.2,1.9,0.13,17,reviewed,us,us
+2021-09-28T16:52:44.920Z,27.5144,52.6885,10,4.3,mb,,112,4.063,0.85,us,us6000fqtv,2021-12-04T14:28:54.040Z,"19 km WSW of Mohr, Iran",earthquake,10,1.9,0.218,7,reviewed,us,us
+2018-02-25T16:36:01.440Z,27.5026,52.4685,10,4.6,mb,,113,4.212,0.6,us,us2000d7px,2018-05-22T02:00:27.040Z,"41 km W of Mohr, Iran",earthquake,7.2,1.9,0.141,21,reviewed,us,us
+2021-10-31T07:49:12.015Z,27.4853,52.5486,10,4.3,mb,,113,4.144,0.46,us,us7000frgu,2022-01-14T17:59:01.040Z,"33 km WSW of Mohr, Iran",earthquake,6.2,2,0.16,12,reviewed,us,us
+2020-09-14T09:26:07.667Z,27.4806,54.3183,10,4.2,mb,,100,3.04,0.71,us,us7000bpsn,2020-11-21T20:10:47.040Z,"27 km SE of Ger?sh, Iran",earthquake,7.4,1.9,0.159,11,reviewed,us,us
+2015-08-10T19:02:36.000Z,27.48,54.67,12,4.2,mb,,,,1.1,us,us100030v8,2015-11-06T18:06:25.040Z,"56 km ESE of Ger?sh, Iran",earthquake,8.4,3,0.089,35,reviewed,teh,us
+2010-01-06T14:17:47.900Z,27.477,55.121,13.4,4.9,mb,128,79.6,,,us,usp000h5t3,2022-05-02T21:32:22.720Z,"99 km ESE of Ger?sh, Iran",earthquake,,,,52,reviewed,teh,us
+2012-12-01T22:08:51.100Z,27.466,53.656,12,4.5,mb,79,71.2,,,us,usp000jwau,2014-11-07T01:49:30.699Z,"52 km WSW of Ger?sh, Iran",earthquake,,,,34,reviewed,teh,us
+2020-12-11T20:47:53.921Z,27.4609,54.0437,10,4.7,mb,,38,3.169,0.73,us,us7000cqdz,2021-02-20T16:11:24.040Z,"24 km SSW of Ger?sh, Iran",earthquake,5.2,1.8,0.047,143,reviewed,us,us
+2021-10-10T16:11:25.699Z,27.4482,55.2274,10,4.7,mb,,49,2.642,0.53,us,us6000ftj0,2021-12-18T19:58:48.040Z,"104 km NNE of Bandar-e Lengeh, Iran",earthquake,7.6,1.8,0.061,85,reviewed,us,us
+2015-04-29T02:37:46.190Z,27.433,53.4371,10,4.9,mb,,30,0.259,1.17,us,us20002a1c,2015-07-03T00:23:46.040Z,"56 km ESE of Mohr, Iran",earthquake,1.5,1.8,0.047,144,reviewed,us,us
+2020-11-29T04:24:28.682Z,27.4149,54.0744,10,4.9,mb,,38,3.116,0.93,us,us7000ckrr,2021-02-06T18:28:53.040Z,"28 km SSW of Ger?sh, Iran",earthquake,7,1.8,0.044,166,reviewed,us,us
+2021-09-11T22:45:19.918Z,27.4119,54.5778,10,4.4,mb,,60,2.858,0.51,us,us7000faeg,2021-11-23T15:10:10.040Z,"52 km ESE of Ger?sh, Iran",earthquake,7.3,1.8,0.066,68,reviewed,us,us
+2013-11-20T08:20:21.400Z,27.406,56.167,17.3,4.3,mb,,,,1.24,us,usb000l2p7,2014-02-11T02:18:52.000Z,"26 km NNW of Bandar Abbas, Iran",earthquake,,4.9,0.189,,reviewed,teh,us
+2020-03-15T22:04:25.371Z,27.4047,55.3537,10,5.4,mww,,38,2.565,0.65,us,us60008g7m,2020-05-30T22:17:12.040Z,"94 km WNW of Bandar Abbas, Iran",earthquake,6.2,1.7,0.073,18,reviewed,us,us
+2017-10-14T17:38:45.420Z,27.4014,52.4218,10,4,mb,,188,4.187,1.01,us,us1000aunf,2018-01-09T02:15:00.040Z,"48 km WSW of Mohr, Iran",earthquake,10.6,2,0.163,10,reviewed,us,us
+2021-09-11T20:55:22.651Z,27.3933,54.6446,10,4.3,mb,,59,2.812,0.49,us,us7000fadr,2021-11-23T15:10:06.040Z,"58 km ESE of Ger?sh, Iran",earthquake,7.6,1.7,0.073,55,reviewed,us,us
+2020-09-22T19:43:31.844Z,27.3906,55.3292,10,4.1,mb,,48,2.559,0.71,us,us6000bzrr,2020-11-28T21:32:05.040Z,"96 km WNW of Bandar Abbas, Iran",earthquake,7.4,1.9,0.097,35,reviewed,us,us
+2021-09-11T21:20:00.891Z,27.3885,54.524,10,4.1,mb,,91,2.863,0.56,us,us7000fadv,2021-11-23T15:10:07.040Z,"49 km SE of Ger?sh, Iran",earthquake,8.4,1.9,0.091,33,reviewed,us,us
+2020-10-14T11:06:17.268Z,27.3738,54.4577,10,4.6,mb,,34,2.883,0.56,us,us6000c886,2020-12-29T23:07:20.040Z,"45 km SE of Ger?sh, Iran",earthquake,7.7,1.8,0.074,54,reviewed,us,us
+2013-07-13T00:52:58.900Z,27.368,55.172,14.1,4.3,mb,24,100,,,us,usb000idjz,2014-11-07T01:51:15.800Z,"94 km NNE of Bandar-e Lengeh, Iran",earthquake,,,,36,reviewed,thr,us
+2018-10-25T03:03:34.530Z,27.3623,52.7024,10,4.3,mb,,82,3.961,0.75,us,us1000hguw,2019-01-10T17:18:35.040Z,"27 km SW of Mohr, Iran",earthquake,8.5,1.9,0.096,31,reviewed,us,us
+2015-04-30T04:18:23.300Z,27.355,53.476,13.7,4,mb,,,,0.77,us,us20002dek,2015-07-09T22:00:03.040Z,"62 km ESE of Mohr, Iran",earthquake,5.1,4.7,0.15,12,reviewed,teh,us
+2022-02-16T04:39:18.237Z,27.3465,55.6258,10,4.1,mb,,123,2.447,0.89,us,us7000gmta,2022-04-30T14:18:17.040Z,"67 km WNW of Bandar Abbas, Iran",earthquake,8.5,1.9,0.198,7,reviewed,us,us
+2021-09-19T22:11:09.381Z,27.3459,52.4711,10,4.4,mb,,83,4.119,0.84,us,us7000fduw,2021-12-03T15:01:59.040Z,"46 km WSW of Mohr, Iran",earthquake,9.5,1.9,0.143,14,reviewed,us,us
+2015-04-12T16:48:16.390Z,27.3415,52.9509,10,4.9,mb,,48,3.774,0.65,us,us200025y5,2015-06-22T23:18:58.040Z,"24 km SSE of Mohr, Iran",earthquake,6.7,1.8,0.045,156,reviewed,us,us
+2019-11-12T06:01:00.643Z,27.3391,54.8662,10,4.2,mb,,62,2.67,0.97,us,us60006ai1,2020-02-07T20:20:17.040Z,"80 km ESE of Ger?sh, Iran",earthquake,8.3,1.9,0.115,21,reviewed,us,us
+2016-01-21T19:28:59.350Z,27.3351,54.8165,10,4.7,mb,,31,2.687,0.66,us,us10004g5n,2016-04-06T17:30:30.040Z,"76 km ESE of Ger?sh, Iran",earthquake,7.1,1.8,0.061,84,reviewed,us,us
+2012-09-26T11:52:53.590Z,27.329,52.904,39.6,4.2,mb,39,85.8,,,us,usp000jszz,2014-11-07T01:48:55.207Z,"25 km S of Mohr, Iran",earthquake,,,,13,reviewed,thr,us
+2022-02-16T00:49:28.901Z,27.3279,55.5554,10,4.3,mb,,117,2.443,0.64,us,us7000gl6b,2022-04-30T14:18:17.040Z,"73 km WNW of Bandar Abbas, Iran",earthquake,9.5,1.9,0.091,34,reviewed,us,us
+2020-11-09T11:49:21.829Z,27.3195,53.5838,10,4.7,mb,,88,3.337,0.8,us,us7000ce9g,2021-01-23T22:25:45.040Z,"66 km SW of Ger?sh, Iran",earthquake,4.3,1.9,0.152,16,reviewed,us,us
+2013-07-02T14:14:21.510Z,27.319,54.903,10,4.1,mb,27,94.7,,0.9,us,us2013sdcm,2014-11-07T01:51:12.225Z,"84 km N of Bandar-e Lengeh, Iran",earthquake,,,,3,reviewed,us,us
+2015-05-20T07:46:30.500Z,27.312,52.915,10,4,mb,,,,1.29,us,us20002kcd,2015-07-23T01:04:13.040Z,"27 km S of Mohr, Iran",earthquake,11.1,5.6,0.196,8,reviewed,teh,us
+2015-04-12T16:59:16.000Z,27.31,52.97,9,4.1,mb,,,,0.92,us,us2000260y,2015-06-22T23:18:58.040Z,"28 km SSE of Mohr, Iran",earthquake,9.5,5.4,0.14,14,reviewed,teh,us
+2010-05-09T03:10:11.000Z,27.307,54.945,9.6,4,mb,53,98.1,,,us,usp000hchd,2014-11-07T01:41:28.231Z,"83 km N of Bandar-e Lengeh, Iran",earthquake,,,,7,reviewed,teh,us
+2013-07-02T14:08:51.380Z,27.302,54.897,10.1,4.5,mb,55,69,,0.78,us,usb000i4tx,2014-11-07T01:51:12.211Z,"82 km N of Bandar-e Lengeh, Iran",earthquake,,4.1,,36,reviewed,us,us
+2010-11-11T22:20:00.000Z,27.3,55.24,6,4.7,mb,104,50.2,,,us,usp000hpea,2014-11-07T01:42:53.993Z,"89 km NNE of Bandar-e Lengeh, Iran",earthquake,,,,29,reviewed,teh,us
+2019-11-07T18:00:56.450Z,27.2937,55.0357,10,4.2,mb,,54,2.563,0.76,us,us600068qk,2020-02-01T23:21:50.040Z,"82 km N of Bandar-e Lengeh, Iran",earthquake,5.9,1.6,0.093,32,reviewed,us,us
+2016-12-30T20:17:57.430Z,27.2869,53.2217,10,4.2,mb,,113,3.553,0.72,us,us10007tr6,2017-03-23T22:52:10.040Z,"44 km SE of Mohr, Iran",earthquake,6.4,1.9,0.124,18,reviewed,us,us
+2019-11-06T16:28:51.488Z,27.2849,54.8962,10,4.5,mb,,56,2.609,0.76,us,us700063z0,2020-02-01T23:21:41.040Z,"80 km N of Bandar-e Lengeh, Iran",earthquake,7.3,1.9,0.065,69,reviewed,us,us
+2020-11-05T04:05:43.485Z,27.2831,53.5571,10,4.5,mb,,111,3.329,0.62,us,us7000capd,2021-01-23T22:25:28.040Z,"71 km SW of Ger?sh, Iran",earthquake,4.6,1.9,0.101,29,reviewed,us,us
+2015-04-19T03:41:17.900Z,27.281,52.91,10.9,4.1,mb,,,,1.26,us,us200027lc,2015-06-26T23:15:56.040Z,"30 km S of Mohr, Iran",earthquake,7.1,2.7,0.103,26,reviewed,teh,us
+2014-02-04T09:17:12.000Z,27.28,52.79,14,4.1,mb,,,,0.98,us,usc000mtha,2014-04-08T01:43:28.000Z,"31 km SSW of Mohr, Iran",earthquake,,5.6,0.302,3,reviewed,teh,us
+2013-07-02T11:18:33.000Z,27.28,55.02,12,5,mb,150,100,,,us,usb000i4s4,2014-11-07T01:51:11.940Z,"81 km N of Bandar-e Lengeh, Iran",earthquake,,,,116,reviewed,teh,us
+2019-10-22T22:10:03.576Z,27.278,55.0669,10,4.1,mb,,115,2.538,0.34,us,us700061np,2020-01-11T21:26:25.040Z,"81 km NNE of Bandar-e Lengeh, Iran",earthquake,10.8,2,0.212,6,reviewed,us,us
+2022-04-09T04:38:25.628Z,27.2747,55.296,10,4,mb,,150,2.459,0.69,us,us7000h1v2,2022-06-20T22:08:04.040Z,"89 km NNE of Bandar-e Lengeh, Iran",earthquake,13,2,0.232,6,reviewed,us,us
+2010-04-01T07:31:56.900Z,27.273,53.701,5,4.1,mblg,25,96.5,,,us,usp000ha6p,2014-11-07T01:41:08.777Z,"61 km SW of Ger?sh, Iran",earthquake,,,,,reviewed,teh,teh
+2022-06-22T08:35:22.325Z,27.2727,53.2427,10,4.9,mb,,57,3.529,0.84,us,us7000hj9a,2022-06-22T09:03:33.040Z,"47 km SE of Mohr, Iran",earthquake,5,1.7,0.055,130,reviewed,us,us
+2014-11-02T11:55:17.000Z,27.27,54.81,15,4.2,mb,,,,1.36,us,usc000sthq,2015-01-20T09:03:11.040Z,"79 km N of Bandar-e Lengeh, Iran",earthquake,7.4,2.1,0.12,24,reviewed,teh,us
+2010-04-01T07:37:22.700Z,27.269,53.683,5.6,4.2,mblg,18,216,,,us,usp000ha6q,2014-11-07T01:41:08.795Z,"63 km SW of Ger?sh, Iran",earthquake,,,,,reviewed,teh,teh
+2011-12-09T08:46:36.600Z,27.266,52.934,17.2,4.4,mb,64,115.2,,,us,usp000jbzx,2014-11-07T01:46:32.407Z,"32 km S of Mohr, Iran",earthquake,,,,9,reviewed,teh,us
+2019-11-06T12:23:35.586Z,27.2623,54.8198,10,4.3,mb,,58,2.621,0.68,us,us700063wv,2020-02-01T23:21:40.040Z,"78 km N of Bandar-e Lengeh, Iran",earthquake,6.1,1.9,0.089,36,reviewed,us,us
+2019-10-30T11:33:04.749Z,27.2576,55.073,10,4.3,mb,,93,2.517,0.94,us,us600064tu,2020-01-18T20:00:39.040Z,"79 km NNE of Bandar-e Lengeh, Iran",earthquake,5.6,1.9,0.118,20,reviewed,us,us
+2021-09-21T01:24:38.538Z,27.2526,52.9044,10,4.4,mb,,116,3.752,0.38,us,us7000fe44,2021-12-03T15:02:02.040Z,"33 km S of Mohr, Iran",earthquake,7.7,2,0.169,10,reviewed,us,us
+2020-11-15T22:06:31.112Z,27.2519,53.5122,10,4.1,mb,,112,3.336,1.01,us,us6000cpy8,2021-01-27T17:28:20.040Z,"70 km ESE of Mohr, Iran",earthquake,10,1.8,0.151,12,reviewed,us,us
+2014-02-03T05:33:58.000Z,27.25,52.76,10,4.3,mb,,,,0.84,us,usc000mfwq,2014-04-08T01:43:24.000Z,"35 km SSW of Mohr, Iran",earthquake,,5,0.113,24,reviewed,teh,us
+2013-07-03T12:05:47.790Z,27.247,55.003,14.9,4.4,mb,44,100,,,us,usb000i5sh,2014-11-07T01:51:12.838Z,"77 km N of Bandar-e Lengeh, Iran",earthquake,,,,31,reviewed,thr,us
+2020-11-22T01:20:36.557Z,27.2432,53.5004,10,4.3,mb,,77,3.338,0.62,us,us6000csip,2021-02-03T17:49:21.040Z,"70 km ESE of Mohr, Iran",earthquake,6.5,1.8,0.126,19,reviewed,us,us
+2022-06-21T21:09:37.089Z,27.2431,53.2853,10,5.4,mww,,46,3.482,0.78,us,us7000hj3x,2022-06-28T03:49:22.044Z,"52 km SE of Mohr, Iran",earthquake,7,1.8,0.098,10,reviewed,us,us
+2020-11-22T04:13:57.637Z,27.2424,53.5212,10,4.5,mb,,47,3.324,1.09,us,us6000crdu,2021-02-03T17:49:20.040Z,"71 km ESE of Mohr, Iran",earthquake,6.7,1.8,0.093,34,reviewed,us,us
+2019-10-21T13:16:17.794Z,27.2424,55.063,10,4.5,mb,,54,2.507,0.67,us,us70006179,2020-01-03T16:09:44.040Z,"77 km NNE of Bandar-e Lengeh, Iran",earthquake,9.3,1.9,0.115,22,reviewed,us,us
+2019-10-24T03:14:59.497Z,27.2412,54.9249,10,4.3,mb,,60,2.559,0.62,us,us600062kq,2020-01-11T21:26:33.040Z,"75 km N of Bandar-e Lengeh, Iran",earthquake,5.2,1.9,0.119,20,reviewed,us,us
+2017-06-22T03:54:04.470Z,27.2389,54.4244,10,4.4,mb,,99,2.789,0.72,us,us20009nzd,2017-08-23T16:35:46.040Z,"55 km SSE of Ger?sh, Iran",earthquake,9.5,1.9,0.096,31,reviewed,us,us
+2019-11-06T07:40:43.027Z,27.238,54.9597,10,5.4,mww,,33,2.542,0.83,us,us700063vr,2020-02-01T23:21:39.040Z,"75 km N of Bandar-e Lengeh, Iran",earthquake,7.2,1.8,0.086,13,reviewed,us,us
+2018-11-05T04:46:15.810Z,27.235,52.5693,10,4,mb,,117,3.985,1.08,us,us2000i6w5,2019-01-21T16:42:52.040Z,"47 km SW of Mohr, Iran",earthquake,4.9,1.9,0.157,11,reviewed,us,us
+2014-02-03T14:30:55.200Z,27.231,52.867,13.9,4.1,mb,,,,0.81,us,usc000mtdc,2014-04-08T01:43:25.000Z,southern Iran,earthquake,,5.2,0.213,9,reviewed,teh,us
+2014-02-03T19:33:45.800Z,27.226,52.719,16.6,4.3,mb,,,,0.94,us,usc000mgd9,2014-04-08T01:43:26.000Z,"39 km SSW of Mohr, Iran",earthquake,,5.7,0.153,13,reviewed,teh,us
+2019-10-21T10:58:52.650Z,27.2259,55.0039,9,5.5,mww,,23,2.514,1.04,us,us70005wp5,2020-07-10T17:51:25.297Z,"75 km N of Bandar-e Lengeh, Iran",earthquake,7,1.8,0.063,24,reviewed,us,us
+2019-04-20T02:41:06.243Z,27.2213,55.8008,10,4.7,mb,,45,2.295,0.72,us,us700039hi,2019-06-26T20:54:58.040Z,"47 km W of Bandar Abbas, Iran",earthquake,7.3,1.9,0.047,139,reviewed,us,us
+2013-05-23T22:44:56.900Z,27.221,53.588,18.1,5.2,mb,136,46.6,,,us,usb000h45n,2022-05-03T16:19:41.609Z,"73 km SW of Ger?sh, Iran",earthquake,,,,99,reviewed,teh,us
+2019-10-21T12:06:32.860Z,27.2192,54.9412,10,4.3,mb,,96,2.533,0.73,us,us7000616x,2020-01-03T16:09:43.040Z,"73 km N of Bandar-e Lengeh, Iran",earthquake,10.3,1.9,0.138,15,reviewed,us,us
+2021-02-13T17:12:13.918Z,27.2185,53.5542,10,4,mb,,112,3.286,0.99,us,us6000djdy,2021-04-23T21:04:30.040Z,"76 km ESE of Mohr, Iran",earthquake,9.1,1.9,0.164,12,reviewed,us,us
+2019-10-30T01:56:52.300Z,27.2171,55.0268,10,4.5,mb,,55,2.497,0.81,us,us600064nz,2020-01-18T20:00:38.040Z,"74 km NNE of Bandar-e Lengeh, Iran",earthquake,7.6,1.9,0.069,61,reviewed,us,us
+2014-02-02T10:29:05.900Z,27.216,52.793,10,4.6,mb,,,,1.14,us,usc000mfml,2014-04-08T01:43:23.000Z,"38 km SSW of Mohr, Iran",earthquake,,3.9,0.078,52,reviewed,teh,us
+2019-10-22T02:34:51.151Z,27.2075,54.9732,10,4.1,mb,,95,2.51,0.94,us,us700061mf,2020-01-11T21:26:21.040Z,"72 km N of Bandar-e Lengeh, Iran",earthquake,9.5,1.9,0.145,13,reviewed,us,us
+2022-06-22T01:26:42.573Z,27.2045,53.2628,10,4.3,mb,,84,3.472,0.54,us,us7000hj5x,2022-06-29T00:13:05.040Z,"54 km SE of Mohr, Iran",earthquake,8.8,1.9,0.083,41,reviewed,us,us
+2012-09-06T13:41:02.900Z,27.204,54.048,20,4.3,mb,25,131.1,,,us,usp000jrvb,2014-11-07T01:48:48.074Z,"52 km S of Ger?sh, Iran",earthquake,,,,2,reviewed,teh,us
+2015-10-07T18:21:36.560Z,27.2026,53.3863,10,4.1,mb,,130,3.387,1.07,us,us10003nvk,2016-01-04T22:29:34.040Z,"63 km SE of Mohr, Iran",earthquake,8.9,1.9,0.135,15,reviewed,us,us
+2022-03-07T23:30:29.291Z,27.2012,53.2979,10,4.7,mb,,78,3.446,0.62,us,us6000h2x1,2022-05-14T21:52:22.040Z,"56 km SE of Mohr, Iran",earthquake,5.9,1.8,0.052,112,reviewed,us,us
+2022-05-24T13:34:58.565Z,27.1964,53.1071,10,4.1,mb,,167,3.575,0.33,us,us7000hd40,2022-05-30T13:28:00.040Z,"45 km SSE of Mohr, Iran",earthquake,6.6,1.9,0.131,16,reviewed,us,us
+2013-10-08T02:52:08.000Z,27.195,55.92,10,4.8,mb,,,,1.03,us,usb000k8cv,2022-05-03T17:54:17.442Z,"35 km W of Bandar Abbas, Iran",earthquake,,3.6,0.05,,reviewed,teh,us
+2011-12-09T03:23:35.450Z,27.194,53.151,20,4.9,mb,158,31.3,,0.85,us,usp000jbzh,2022-04-08T20:24:15.426Z,"47 km SSE of Mohr, Iran",earthquake,,,,83,reviewed,us,us
+2010-04-27T22:58:03.900Z,27.192,54.967,21.8,5,mwc,158,95.4,,,us,usp000hbzz,2022-05-02T21:53:18.809Z,"70 km N of Bandar-e Lengeh, Iran",earthquake,,,,,reviewed,teh,gcmt
+2018-08-23T11:10:49.860Z,27.184,54.2274,10,4.4,mb,,68,2.851,0.91,us,us1000gfzp,2018-11-01T17:50:56.040Z,"54 km S of Ger?sh, Iran",earthquake,7.2,1.9,0.077,49,reviewed,us,us
+2019-10-22T04:33:18.924Z,27.1838,54.9703,10,4.3,mb,,114,2.49,0.94,us,us700061mj,2020-01-11T21:26:21.040Z,"69 km N of Bandar-e Lengeh, Iran",earthquake,8.2,1.9,0.142,14,reviewed,us,us
+2015-10-03T16:34:49.000Z,27.18,53.2,5,3.9,mb,,,,1.02,us,us10003k19,2016-01-04T22:28:57.040Z,"52 km SE of Mohr, Iran",earthquake,11.2,6.7,0.129,16,reviewed,teh,us
+2013-02-12T21:11:07.900Z,27.18,54.28,14.1,4,ml,64,67.2,,,us,us2013lndt,2014-11-07T01:50:07.002Z,"56 km SSE of Ger?sh, Iran",earthquake,,,,,reviewed,thr,thr
+2014-05-22T09:26:02.900Z,27.179,54.489,11.7,4.4,mb,,,,1.06,us,usc000rdd9,2014-08-23T08:36:42.000Z,"64 km SSE of Ger?sh, Iran",earthquake,,4.8,0.267,4,reviewed,teh,us
+2012-03-12T08:41:01.300Z,27.177,54.877,17.9,4.2,mb,64,63.9,,,us,usp000jg4n,2014-11-07T01:47:13.964Z,"68 km N of Bandar-e Lengeh, Iran",earthquake,,,,4,reviewed,teh,us
+2014-09-24T16:54:23.740Z,27.1747,54.9147,10,4.5,mb,,52,2.504,0.86,us,usb000sj8l,2014-12-20T00:53:56.040Z,"68 km N of Bandar-e Lengeh, Iran",earthquake,9.9,1.7,0.156,15,reviewed,us,us
+2021-11-30T22:20:54.018Z,27.173,53.2896,10,4.3,mb,,115,3.434,0.56,us,us6000g817,2022-02-05T23:03:35.040Z,"58 km SE of Mohr, Iran",earthquake,9,1.9,0.101,28,reviewed,us,us
+2020-02-17T00:29:20.484Z,27.1711,54.747,10,4,mb,,107,2.575,0.57,us,us70007rk2,2020-05-02T22:10:01.040Z,"69 km N of Bandar-e Lengeh, Iran",earthquake,7.1,2,0.184,8,reviewed,us,us
+2010-07-20T20:01:33.000Z,27.17,53.98,34,4.1,mblg,18,228.9,,,us,usp000hg79,2014-11-07T01:41:57.439Z,"57 km SSW of Ger?sh, Iran",earthquake,,,,,reviewed,teh,teh
+2020-03-03T11:31:26.946Z,27.1688,54.6973,10,4.3,mb,,105,2.596,0.62,us,us600088lk,2020-05-19T22:14:23.040Z,"70 km NNW of Bandar-e Lengeh, Iran",earthquake,8,1.8,0.113,22,reviewed,us,us
+2022-06-22T19:59:13.067Z,27.1648,53.2063,10,4.3,mb,,64,3.486,0.79,us,us7000hjdz,2022-06-27T19:00:23.040Z,"53 km SE of Mohr, Iran",earthquake,8.9,1.8,0.086,38,reviewed,us,us
+2016-08-21T07:43:02.000Z,27.16,54.45,13,4.5,mb,,,,0.84,us,us10006fjt,2016-11-19T04:58:33.040Z,"64 km SSE of Ger?sh, Iran",earthquake,7.8,4.9,0.073,56,reviewed,teh,us
+2014-01-04T21:20:39.260Z,27.1597,54.3447,10,4.1,mb,,40,2.767,0.86,us,usc000lwza,2014-03-07T00:25:58.000Z,"60 km SSE of Ger?sh, Iran",earthquake,,1.9,0.081,45,reviewed,us,us
+2021-02-16T07:59:32.873Z,27.1585,53.458,10,4.6,mb,,116,3.31,0.54,us,us6000dk4p,2021-04-23T21:04:46.040Z,"71 km SE of Mohr, Iran",earthquake,8.2,1.8,0.192,8,reviewed,us,us
+2014-10-12T13:31:51.990Z,27.1579,53.5473,10,4.1,mb,,51,3.25,0.63,us,usb000sla5,2015-01-06T23:49:53.040Z,"79 km SE of Mohr, Iran",earthquake,9.7,1.9,0.095,34,reviewed,us,us
+2010-07-24T12:34:14.240Z,27.153,53.68,10,4.8,mb,51,93.1,,0.84,us,usp000hgpf,2014-11-07T01:42:00.285Z,"72 km SW of Ger?sh, Iran",earthquake,,,,11,reviewed,us,us
+2020-02-16T12:24:53.242Z,27.1527,55.8212,10,4.6,mb,,109,2.225,0.86,us,us70007raz,2020-05-02T22:09:59.040Z,"45 km W of Bandar Abbas, Iran",earthquake,8.5,1.9,0.077,51,reviewed,us,us
+2022-03-04T10:46:14.430Z,27.1518,53.2501,10,4.4,mb,,70,3.448,0.28,us,us6000h20t,2022-05-07T21:32:51.040Z,"57 km SE of Mohr, Iran",earthquake,8.2,1.9,0.072,56,reviewed,us,us
+2014-01-02T03:13:54.570Z,27.1502,54.4482,8,5.2,mwb,,33,1.158,0.72,us,usc000lvhr,2022-05-03T16:37:05.104Z,"65 km SSE of Ger?sh, Iran",earthquake,,1.7,0.063,24,reviewed,us,us
+2014-01-02T03:24:21.200Z,27.14,54.48,12,4.3,mb,,,,0.66,us,usc000lvhu,2014-03-07T00:25:55.000Z,"67 km SSE of Ger?sh, Iran",earthquake,,3.6,0.083,47,reviewed,teh,us
+2020-11-08T14:41:13.016Z,27.1375,53.4909,10,4.3,mb,,77,3.274,0.83,us,us7000cc4z,2021-01-23T22:25:37.040Z,"75 km SE of Mohr, Iran",earthquake,8.6,1.9,0.097,30,reviewed,us,us
+2020-02-16T12:30:47.136Z,27.1286,55.7659,8.52,5.1,mww,,54,2.209,0.85,us,us70007rb0,2021-01-15T23:32:32.031Z,"51 km W of Bandar Abbas, Iran",earthquake,6.9,3.9,0.093,11,reviewed,us,us
+2017-12-30T13:30:12.800Z,27.1284,53.3594,10,4,mb,,184,6.147,1.11,us,us1000by5n,2018-03-17T01:54:39.040Z,"66 km SE of Mohr, Iran",earthquake,8.6,1.9,0.108,23,reviewed,us,us
+2014-01-02T08:59:33.600Z,27.127,54.461,20,4,mb,,,,0.91,us,usc000lvjq,2014-03-07T00:25:55.000Z,"68 km SSE of Ger?sh, Iran",earthquake,,3,0.134,16,reviewed,teh,us
+2016-12-30T19:47:40.410Z,27.1255,53.1842,43.74,4.1,mb,,116,3.477,0.89,us,us10007nt7,2017-03-23T22:52:10.040Z,"56 km SSE of Mohr, Iran",earthquake,8.9,9.2,0.099,28,reviewed,us,us
+2020-11-08T21:51:20.004Z,27.1235,53.4661,10,4,mb,,115,3.282,0.56,us,us7000cduu,2021-01-23T22:25:45.040Z,"74 km SE of Mohr, Iran",earthquake,8.1,1.9,0.212,6,reviewed,us,us
+2022-04-30T20:05:50.929Z,27.1228,54.4698,10,4.2,mb,,52,2.671,0.53,us,us7000h64c,2022-05-18T02:52:53.040Z,"69 km SSE of Ger?sh, Iran",earthquake,7.7,1.9,0.092,33,reviewed,us,us
+2022-06-22T18:13:40.668Z,27.1207,54.3571,10,4.1,mb,,68,2.73,0.66,us,us7000hjd4,2022-06-27T17:15:07.040Z,"64 km SSE of Ger?sh, Iran",earthquake,10.2,1.8,0.145,13,reviewed,us,us
+2010-05-12T17:29:11.300Z,27.119,54.979,35.5,4.2,mb,47,133.6,,,us,usp000hcp2,2014-11-07T01:41:28.887Z,"62 km N of Bandar-e Lengeh, Iran",earthquake,,,,10,reviewed,thr,us
+2011-01-30T18:58:13.900Z,27.115,53.372,28.5,4.8,mb,88,58.5,,,us,usp000htvk,2014-11-07T01:43:31.800Z,"68 km SE of Mohr, Iran",earthquake,,,,25,reviewed,teh,us
+2011-01-30T18:54:19.700Z,27.115,53.364,12.3,4.3,mb,44,80.3,,,us,usp000htvj,2014-11-07T01:43:31.796Z,"68 km SE of Mohr, Iran",earthquake,,,,8,reviewed,teh,us
+2018-08-23T10:52:45.350Z,27.1117,54.2142,10,5,mww,,40,2.803,0.88,us,us1000gfzg,2022-05-03T19:28:12.323Z,"62 km S of Ger?sh, Iran",earthquake,7.1,1.8,0.086,13,reviewed,us,us
+2014-01-02T10:50:18.600Z,27.111,54.473,10,4.5,mb,,,,0.85,us,usc000lvkg,2014-03-07T00:25:55.000Z,"70 km SSE of Ger?sh, Iran",earthquake,,3.9,0.08,58,reviewed,teh,us
+2010-05-14T09:33:19.430Z,27.109,54.727,48.4,4.7,mb,102,95.3,,1.4,us,usp000hcra,2014-11-07T01:41:29.210Z,"62 km NNW of Bandar-e Lengeh, Iran",earthquake,,7.6,,45,reviewed,us,us
+2018-08-24T18:18:44.120Z,27.1028,54.2418,10,4.1,mb,,107,2.78,1.36,us,us1000ggvw,2018-11-01T17:50:57.040Z,"63 km S of Ger?sh, Iran",earthquake,8.1,1.9,0.092,32,reviewed,us,us
+2015-02-20T18:16:24.850Z,27.0996,54.8064,13.65,4.5,mb,,36,0.685,1.26,us,usc000try2,2015-05-12T20:29:35.040Z,"60 km N of Bandar-e Lengeh, Iran",earthquake,2.3,5,0.09,41,reviewed,us,us
+2020-02-16T12:21:52.947Z,27.0926,55.7736,10,4.1,mb,,126,2.173,0.52,us,us70007ray,2020-05-02T22:09:59.040Z,"51 km WSW of Bandar Abbas, Iran",earthquake,7.1,1.9,0.114,21,reviewed,us,us
+2019-02-10T10:54:48.300Z,27.0899,55.5458,10,5.4,mww,,28,2.216,0.65,us,us2000jfx7,2020-07-10T17:25:31.624Z,"73 km WNW of Qeshm, Iran",earthquake,7.3,1.8,0.059,28,reviewed,us,us
+2012-05-13T18:21:13.430Z,27.086,53.923,10,4.9,mb,140,53.2,,1.11,us,usp000jkd2,2022-05-03T15:39:51.500Z,"59 km N of K?sh, Iran",earthquake,,,,68,reviewed,us,us
+2019-10-29T16:23:46.996Z,27.0853,54.9044,10,4.2,mb,,61,2.43,1.15,us,us7000642h,2020-01-18T20:00:59.040Z,"58 km N of Bandar-e Lengeh, Iran",earthquake,6,1.9,0.176,9,reviewed,us,us
+2015-10-09T02:28:01.710Z,27.0846,54.5077,14.49,4.2,mb,,65,1.514,0.97,us,us10003p4y,2016-01-11T21:07:16.040Z,"69 km NNW of Bandar-e Lengeh, Iran",earthquake,4.4,5.6,0.128,17,reviewed,us,us
+2019-03-21T10:03:58.256Z,27.0832,53.8579,10,4.6,mb,,112,2.998,0.83,us,us1000jjpi,2019-06-06T18:54:10.040Z,"60 km NNW of K?sh, Iran",earthquake,7.1,1.8,0.059,85,reviewed,us,us
+2014-05-16T03:29:03.560Z,27.0829,54.3578,10,4.4,mb,,52,1.093,0.84,us,usb000qqe4,2014-08-09T02:53:44.000Z,"67 km NNE of K?sh, Iran",earthquake,,1.8,0.091,44,reviewed,us,us
+2022-06-01T07:49:59.945Z,27.0796,53.9118,10,4.6,mb,72,45,2.961,0.74,us,us7000he10,2022-06-30T11:15:59.040Z,"58 km N of K?sh, Iran",earthquake,8.1,1.8,0.059,86,reviewed,us,us
+2020-02-12T23:39:07.864Z,27.0715,55.7293,10,4.2,mb,,129,2.16,0.91,us,us70007t1r,2020-05-02T22:10:26.040Z,"55 km WNW of Qeshm, Iran",earthquake,10.5,1.8,0.146,13,reviewed,us,us
+2013-04-28T12:11:33.650Z,27.071,54.285,10,4.5,mb,114,52.6,,1.09,us,us2013pnah,2014-11-07T01:50:39.308Z,"62 km NNE of K?sh, Iran",earthquake,,,,76,reviewed,us,us
+2020-02-12T19:41:13.641Z,27.0691,55.9277,10,4.1,mb,,129,2.129,1.13,us,us70007t1p,2020-05-02T22:10:26.040Z,"36 km WNW of Qeshm, Iran",earthquake,9.6,1.9,0.126,17,reviewed,us,us
+2019-02-11T04:12:31.330Z,27.0666,55.6283,10,4.5,mb,,59,2.175,0.83,us,us2000jg6x,2019-04-25T15:32:06.040Z,"64 km WNW of Qeshm, Iran",earthquake,7.2,1.8,0.074,53,reviewed,us,us
+2013-04-19T21:41:07.720Z,27.065,53.838,25.5,4.9,mb,63,46.3,,1.03,us,us2013pea9,2022-05-03T16:14:50.390Z,"59 km NNW of K?sh, Iran",earthquake,,8.5,,27,reviewed,us,us
+2014-11-06T18:43:30.000Z,27.064,55.123,1.5,4.8,mb,,,,0.77,us,usc000sv3v,2015-01-31T02:50:05.040Z,"61 km NNE of Bandar-e Lengeh, Iran",earthquake,6.7,3.9,0.048,142,reviewed,teh,us
+2010-01-10T17:17:48.720Z,27.062,55.614,10,4.7,mb,87,106.2,,1.19,us,usp000h5xt,2014-11-07T01:40:26.351Z,"66 km W of Qeshm, Iran",earthquake,,,,28,reviewed,us,us
+2013-06-01T12:06:30.000Z,27.06,53.95,10,4,mb,29,100,,,us,us2013qxc6,2014-11-07T01:50:58.378Z,"56 km N of K?sh, Iran",earthquake,,,,15,reviewed,teh,us
+2010-07-20T19:50:10.920Z,27.056,53.812,10,5.1,mb,149,61.2,,1.03,us,usp000hg76,2022-05-02T22:04:49.085Z,"58 km NNW of K?sh, Iran",earthquake,,,,79,reviewed,us,us
+2014-07-24T06:04:27.000Z,27.05,54.63,9,4.3,mb,,,,1.25,us,usb000s09w,2014-10-25T01:49:34.000Z,"59 km NNW of Bandar-e Lengeh, Iran",earthquake,,5.1,0.122,21,reviewed,teh,us
+2012-08-25T08:36:31.000Z,27.05,53.09,9,4.4,mb,63,118.5,,,us,usp000jqq4,2014-11-07T01:48:37.008Z,"59 km SSE of Mohr, Iran",earthquake,,,,12,reviewed,teh,us
+2010-08-06T06:59:57.800Z,27.038,53.836,28.7,4.3,mb,60,93.2,,,us,usp000hhn7,2014-11-07T01:42:11.590Z,"56 km NNW of K?sh, Iran",earthquake,,,,17,reviewed,teh,us
+2012-01-09T19:53:35.300Z,27.034,55.726,14.2,5.2,mb,165,41.9,,,us,usp000jd9k,2014-11-07T01:46:45.370Z,"54 km W of Qeshm, Iran",earthquake,,,,88,reviewed,thr,us
+2018-11-22T02:11:50.500Z,27.0294,53.76,10,4.7,mb,,83,5.806,0.65,us,us1000hva5,2019-02-02T20:02:28.040Z,"58 km NNW of K?sh, Iran",earthquake,6.5,1.5,0.054,104,reviewed,us,us
+2022-03-16T23:27:27.332Z,27.026,54.5754,10,4.5,mb,,100,2.538,0.51,us,us6000h5a6,2022-05-27T14:55:30.040Z,"60 km NNW of Bandar-e Lengeh, Iran",earthquake,9.4,1.9,0.115,22,reviewed,us,us
+2010-07-20T19:38:09.530Z,27.022,53.861,10,5.8,mwc,233,35.2,,0.97,us,usp000hg74,2022-05-02T22:04:42.919Z,"53 km NNW of K?sh, Iran",earthquake,,,,,reviewed,us,gcmt
+2022-03-16T23:15:47.266Z,27.0219,54.5843,22,5.9,mww,,32,2.53,0.8,us,us6000h58x,2022-05-27T14:55:19.040Z,"59 km NNW of Bandar-e Lengeh, Iran",earthquake,6.8,1.8,0.086,13,reviewed,us,us
+2012-07-12T21:18:26.700Z,27.02,55.02,10,4.5,mb,72,57.1,,,us,usp000jny5,2014-11-07T01:48:19.289Z,"53 km NNE of Bandar-e Lengeh, Iran",earthquake,,,,27,reviewed,teh,us
+2019-02-10T14:56:38.050Z,27.0121,55.5816,10,4.3,mb,,87,2.133,0.47,us,us2000jni3,2019-04-25T15:32:04.040Z,"68 km W of Qeshm, Iran",earthquake,5.3,1.9,0.103,27,reviewed,us,us
+2019-09-08T19:13:45.552Z,27.0006,55.5872,10,4.3,mb,,87,2.12,1.08,us,us70005h4r,2019-11-30T19:36:12.040Z,"67 km W of Qeshm, Iran",earthquake,5,1.9,0.105,26,reviewed,us,us
+2012-03-12T05:09:52.600Z,26.992,54.827,15,4.7,mb,92,65.5,,,us,usp000jg4b,2015-03-24T01:27:08.767Z,southern Iran,earthquake,,,,32,reviewed,thr,us
+2016-09-17T15:31:18.000Z,26.99,53.46,20,4.3,mb,,,,0.72,us,us10006qfk,2016-12-12T23:01:27.040Z,"73 km NW of K?sh, Iran",earthquake,7.5,6.7,0.16,11,reviewed,teh,us
+2018-05-05T18:13:56.910Z,26.986,55.8186,10,4.3,mb,,85,2.061,0.55,us,us1000dyx2,2018-07-27T20:20:29.040Z,"44 km W of Qeshm, Iran",earthquake,7,1.8,0.069,59,reviewed,us,us
+2010-01-10T15:20:33.170Z,26.985,55.57,10,4.7,mb,66,106.3,,0.82,us,usp000h5xn,2014-11-07T01:40:26.337Z,"69 km W of Qeshm, Iran",earthquake,,,,12,reviewed,us,us
+2010-09-07T02:11:04.300Z,26.98,54.5,30.7,5.2,mb,165,29.2,,,us,usp000hkc7,2022-05-02T22:39:32.445Z,"60 km NW of Bandar-e Lengeh, Iran",earthquake,,,,72,reviewed,thr,us
+2015-11-11T10:29:38.750Z,26.9712,52.6953,10,4.4,mb,,63,3.748,0.61,us,us10003y50,2016-02-05T03:16:43.040Z,"67 km SSW of Mohr, Iran",earthquake,8.1,1.9,0.127,18,reviewed,us,us
+2022-03-17T02:48:02.035Z,26.971,54.4447,10,4.1,mb,,225,15.417,0.62,us,us6000h6pl,2022-05-27T14:55:41.040Z,"62 km NE of K?sh, Iran",earthquake,15.8,2,0.175,9,reviewed,us,us
+2022-03-16T23:34:41.764Z,26.9646,54.5095,10,4.1,mb,,100,2.524,0.52,us,us6000h6gw,2022-05-27T14:55:41.040Z,"58 km NW of Bandar-e Lengeh, Iran",earthquake,7.9,1.7,0.114,21,reviewed,us,us
+2012-09-06T03:43:40.090Z,26.96,53.97,16,5,mb,183,42.2,,,us,usp000jru7,2022-05-03T15:49:32.118Z,"44 km N of K?sh, Iran",earthquake,,,,76,reviewed,teh,us
+2010-05-28T11:16:55.950Z,26.959,55.575,10,4.2,mb,51,93.9,,0.84,us,usp000hda0,2014-11-07T01:41:33.727Z,"68 km W of Qeshm, Iran",earthquake,,,,7,reviewed,us,us
+2022-06-20T22:00:48.501Z,26.9558,54.5021,10,4,mb,,100,2.521,0.8,us,us7000hjy4,2022-06-28T03:27:56.040Z,"57 km NW of Bandar-e Lengeh, Iran",earthquake,5.2,1.9,0.126,17,reviewed,us,us
+2015-11-11T00:47:50.420Z,26.955,52.7648,10,4,mb,,121,3.686,1.01,us,us10003y4x,2016-02-05T03:16:42.040Z,"67 km S of Mohr, Iran",earthquake,10.2,1.9,0.173,9,reviewed,us,us
+2020-07-27T11:12:34.970Z,26.9525,55.9609,10,4.6,mb,,45,2.01,0.44,us,us6000b4nn,2020-10-03T17:32:26.040Z,"30 km W of Qeshm, Iran",earthquake,7.3,1.8,0.047,140,reviewed,us,us
+2012-09-06T01:57:08.900Z,26.942,53.879,26.7,5.2,mb,233,33.2,,,us,usp000jru0,2022-05-03T15:49:30.526Z,"44 km NNW of K?sh, Iran",earthquake,,,,107,reviewed,teh,us
+2012-05-17T21:40:42.200Z,26.942,53.851,5,5.1,mb,181,43.9,,,us,usp000jkhu,2022-05-03T15:39:56.280Z,"45 km NNW of K?sh, Iran",earthquake,,,,82,reviewed,teh,us
+2021-01-15T21:31:04.660Z,26.9417,55.1967,8,5.5,mww,,35,2.185,0.97,us,us7000d0gn,2021-03-27T21:04:41.040Z,"52 km NE of Bandar-e Lengeh, Iran",earthquake,6.9,1.8,0.068,21,reviewed,us,us
+2021-08-11T16:18:03.542Z,26.9356,54.2467,10,4.2,mb,,111,2.652,0.7,us,us6000f46d,2021-10-23T15:46:05.040Z,"47 km NNE of K?sh, Iran",earthquake,9.1,1.9,0.106,25,reviewed,us,us
+2022-07-01T21:32:08.621Z,26.935,55.254,16,6,mww,180,20,2.158,0.78,us,us6000hz8x,2022-07-03T14:32:59.683Z,"55 km NE of Bandar-e Lengeh, Iran",earthquake,7.3,1.8,0.057,30,reviewed,us,us
+2014-03-25T11:08:45.200Z,26.932,54.892,19,4.2,mb,,,,0.72,us,usc000p4pi,2014-05-24T00:54:45.000Z,"41 km N of Bandar-e Lengeh, Iran",earthquake,,3.7,0.146,14,reviewed,teh,us
+2012-05-17T19:32:13.700Z,26.931,53.86,5,4.2,mblg,41,59.5,,,us,usp000jkhq,2014-11-07T01:47:48.244Z,"44 km NNW of K?sh, Iran",earthquake,,,,,reviewed,teh,teh
+2010-08-11T09:06:45.100Z,26.928,55.724,10,4.4,mb,44,94,,0.88,us,usp000hhy7,2014-11-07T01:42:13.097Z,"54 km W of Qeshm, Iran",earthquake,,,,9,reviewed,us,us
+2022-07-01T23:24:14.319Z,26.9249,55.2468,10,5.7,mwb,122,24,2.151,0.91,us,us6000hz9p,2022-07-02T23:28:09.846Z,"54 km NE of Bandar-e Lengeh, Iran",earthquake,7.2,1.8,0.036,74,reviewed,us,us
+2022-07-01T23:49:19.342Z,26.9173,55.2161,10,4.2,mb,42,64,2.155,0.74,us,us6000hz9z,2022-07-02T04:37:49.618Z,southern Iran,earthquake,8.2,1.9,0.096,30,reviewed,us,us
+2015-10-22T02:58:12.900Z,26.91,54.45,8.9,4.2,mb,,,,0.85,us,us20004041,2016-01-22T23:41:09.040Z,"57 km NW of Bandar-e Lengeh, Iran",earthquake,4.5,5.8,0.199,7,reviewed,teh,us
+2019-09-08T10:53:27.902Z,26.9094,55.608,10,4.6,mb,,82,2.028,0.64,us,us70005de5,2019-11-30T19:36:46.040Z,"65 km W of Qeshm, Iran",earthquake,4.1,1.9,0.077,50,reviewed,us,us
+2022-07-01T23:25:14.133Z,26.8992,55.3207,10,6,mwb,364,21,2.102,0.68,us,us6000hz9v,2022-07-03T00:08:22.833Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.7,0.028,126,reviewed,us,us
+2014-07-22T08:01:55.200Z,26.897,54.32,12,4.4,mb,,,,1.41,us,usb000rz71,2014-10-17T21:12:14.000Z,"48 km NE of K?sh, Iran",earthquake,,4.2,0.103,30,reviewed,teh,us
+2022-07-01T23:13:44.113Z,26.8954,55.3149,10,4.2,mb,63,94,2.1,0.62,us,us6000hz9l,2022-07-02T02:03:50.040Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.4,1.8,0.076,48,reviewed,us,us
+2016-07-28T15:34:05.460Z,26.8933,53.7681,10,4.6,mb,,79,2.928,0.85,us,us1000682i,2016-09-24T22:47:22.040Z,"44 km NW of K?sh, Iran",earthquake,5.9,1.6,0.059,85,reviewed,us,us
+2017-06-14T10:14:46.340Z,26.8932,55.8048,10,4,mb,,91,1.972,0.64,us,us20009mef,2017-08-18T23:13:27.040Z,"46 km W of Qeshm, Iran",earthquake,8.7,1.9,0.13,16,reviewed,us,us
+2014-09-24T14:22:21.810Z,26.8919,55.7594,10,4.1,mb,,104,1.979,0.28,us,usb000sj8x,2014-12-20T00:53:56.040Z,"51 km W of Qeshm, Iran",earthquake,7.5,1.9,0.262,5,reviewed,us,us
+2020-02-25T11:42:09.007Z,26.8878,55.6637,10,4.4,mb,,122,1.994,0.48,us,us70007web,2020-05-09T21:41:17.040Z,"60 km W of Qeshm, Iran",earthquake,5.3,1.9,0.098,30,reviewed,us,us
+2022-07-02T03:47:51.381Z,26.8848,55.172,10,4.5,mb,20,114,2.143,0.55,us,us6000hzbf,2022-07-02T04:02:43.040Z,"46 km NE of Bandar-e Lengeh, Iran",earthquake,6.8,1.9,0.139,16,reviewed,us,us
+2014-07-28T00:00:46.520Z,26.8848,54.2282,37.39,4.5,mb,,52,2.626,0.72,us,usb000rxtm,2014-10-25T01:49:40.000Z,"41 km NNE of K?sh, Iran",earthquake,,6.3,0.056,99,reviewed,us,us
+2022-07-02T05:06:57.349Z,26.884,55.2203,10,4.6,mb,57,67,2.124,0.68,us,us6000hzc3,2022-07-02T14:00:49.030Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,8.8,1.9,0.086,40,reviewed,us,us
+2022-07-01T21:47:51.697Z,26.8814,55.2295,10,5,mb,147,54,2.118,0.66,us,us6000hz94,2022-07-02T00:07:58.836Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,7,1.8,0.04,196,reviewed,us,us
+2012-05-15T00:25:42.000Z,26.88,53.9,10,4,mb,29,115.7,,,us,usp000jkee,2014-11-07T01:47:47.589Z,"37 km NNW of K?sh, Iran",earthquake,,,,7,reviewed,teh,us
+2022-03-17T02:45:02.426Z,26.8796,54.5923,10,4.2,mb,,67,2.411,0.68,us,us6000h6pk,2022-05-27T14:55:41.040Z,"45 km NW of Bandar-e Lengeh, Iran",earthquake,6.1,1.9,0.136,15,reviewed,us,us
+2022-07-02T02:51:52.466Z,26.8741,55.2903,10,4.4,mb,28,113,2.089,0.55,us,us6000hzb3,2022-07-02T03:10:52.040Z,"53 km NE of Bandar-e Lengeh, Iran",earthquake,10.3,1.9,0.126,18,reviewed,us,us
+2021-01-17T02:50:17.037Z,26.8725,55.1942,10,4.7,mb,,39,2.123,0.66,us,us7000d0rz,2021-03-27T21:04:57.040Z,"46 km NE of Bandar-e Lengeh, Iran",earthquake,7.4,1.8,0.065,72,reviewed,us,us
+2014-09-24T14:25:44.930Z,26.867,55.7885,10,4.6,mb,,56,1.95,0.8,us,usb000sj8g,2014-12-20T00:53:56.040Z,"48 km W of Qeshm, Iran",earthquake,8.8,1.9,0.157,16,reviewed,us,us
+2022-07-02T03:29:10.194Z,26.8657,55.3128,10,4.5,mb,45,95,2.074,0.63,us,us6000hzbc,2022-07-02T03:52:20.040Z,"54 km NE of Bandar-e Lengeh, Iran",earthquake,7.1,1.9,0.082,43,reviewed,us,us
+2022-07-01T22:43:50.392Z,26.8649,55.185,10,4.2,mb,45,97,2.12,0.83,us,us6000hz9h,2022-07-02T00:57:24.355Z,"45 km NE of Bandar-e Lengeh, Iran",earthquake,6,1.9,0.089,35,reviewed,us,us
+2014-07-29T15:32:07.200Z,26.8632,54.2251,42.93,4.1,mb,,125,2.612,0.6,us,usb000s1e5,2014-10-25T01:49:43.000Z,"39 km NNE of K?sh, Iran",earthquake,,8.7,0.198,9,reviewed,us,us
+2014-07-03T04:20:00.800Z,26.857,55.338,9,4.1,mb,,,,1.11,us,usb000rvxi,2014-10-04T19:59:51.000Z,"56 km NE of Bandar-e Lengeh, Iran",earthquake,,4.7,0.145,13,reviewed,teh,us
+2018-09-16T02:04:12.530Z,26.8565,53.1913,10,4,mb,,122,3.314,0.77,us,us2000hibg,2018-11-21T18:19:16.040Z,"83 km SSE of Mohr, Iran",earthquake,5.7,1.9,0.134,15,reviewed,us,us
+2013-11-27T07:25:42.530Z,26.8555,56.936,10.72,4.5,mb,,52,2.013,0.83,us,usb000l76n,2014-02-12T01:08:34.000Z,"34 km SSW of M?n?b, Iran",earthquake,,2.7,0.087,,reviewed,us,us
+2021-02-18T07:06:16.366Z,26.8433,55.2581,10,4.2,mb,,96,2.073,0.35,us,us6000dilj,2021-04-23T21:04:54.040Z,"49 km NE of Bandar-e Lengeh, Iran",earthquake,4.6,1.9,0.096,30,reviewed,us,us
+2021-01-22T23:27:34.843Z,26.8427,55.2921,10,4,mb,,95,2.06,0.89,us,us7000d2kj,2021-04-13T17:05:10.040Z,"51 km NE of Bandar-e Lengeh, Iran",earthquake,8.3,1.9,0.108,23,reviewed,us,us
+2010-11-05T05:16:17.600Z,26.842,54.447,22,4.1,mb,40,117.1,,,us,usp000hp3y,2014-11-07T01:42:52.352Z,"52 km NE of K?sh, Iran",earthquake,,,,5,reviewed,teh,us
+2013-01-07T00:41:57.340Z,26.841,56.16,10,4.3,mb,64,107.9,,0.78,us,usp000jy08,2014-11-07T01:49:47.279Z,"16 km SW of Qeshm, Iran",earthquake,,,,24,reviewed,us,us
+2022-07-02T09:15:45.412Z,26.8408,54.961,10,4.4,mb,65,39,2.194,0.43,us,us6000hzd2,2022-07-02T18:07:52.558Z,"32 km NNE of Bandar-e Lengeh, Iran",earthquake,6.5,1.8,0.079,48,reviewed,us,us
+2019-05-13T08:09:10.812Z,26.8401,55.2477,35,4.3,mb,,72,2.074,0.83,us,us70003k9a,2019-08-01T17:15:16.040Z,"48 km NE of Bandar-e Lengeh, Iran",earthquake,6.9,2,0.093,33,reviewed,us,us
+2021-01-30T17:23:27.207Z,26.84,53.9755,10,4.2,mb,,76,2.754,0.79,us,us6000dd9y,2021-04-16T19:02:32.040Z,"31 km N of K?sh, Iran",earthquake,7.1,1.9,0.079,51,reviewed,us,us
+2013-03-28T19:53:28.700Z,26.832,54.546,9,4.3,mb,35,84.9,,,us,usb000g2ny,2014-11-07T01:50:24.134Z,"45 km NW of Bandar-e Lengeh, Iran",earthquake,,,,6,reviewed,teh,us
+2012-09-13T08:01:43.000Z,26.828,53.863,18,4.4,mb,63,77.5,,,us,usp000js8w,2014-11-07T01:48:51.211Z,"33 km NNW of K?sh, Iran",earthquake,,,,21,reviewed,teh,us
+2022-07-01T22:07:46.745Z,26.8209,55.129,10,4.2,mb,63,42,2.104,0.89,us,us6000hz98,2022-07-02T04:12:16.810Z,"38 km NE of Bandar-e Lengeh, Iran",earthquake,6.4,1.7,0.077,47,reviewed,us,us
+2021-01-15T23:24:21.052Z,26.8188,55.1959,10,4.4,mb,,113,2.075,1.04,us,us7000d0ik,2021-03-27T21:04:42.040Z,"42 km NE of Bandar-e Lengeh, Iran",earthquake,5.7,1.9,0.105,26,reviewed,us,us
+2014-04-29T11:31:13.000Z,26.81,53.92,25,4.5,mb,,,,1.28,us,usb000q3lh,2014-07-14T20:11:23.000Z,"29 km NNW of K?sh, Iran",earthquake,,4.8,0.094,34,reviewed,teh,us
+2020-07-25T17:47:13.227Z,26.7806,56.334,10,4,mb,,70,1.831,1.38,us,us6000b6nx,2020-10-03T17:32:32.040Z,"19 km SSE of Qeshm, Iran",earthquake,9.3,1.9,0.1,30,reviewed,us,us
+2014-05-31T16:53:29.000Z,26.78,53.92,23,3.9,mb,,,,1.04,us,usc000r9hj,2014-08-26T01:21:06.000Z,"26 km NNW of K?sh, Iran",earthquake,,4.8,0.193,7,reviewed,teh,us
+2022-06-24T01:27:29.339Z,26.7781,53.8688,10,4.1,mb,,86,2.785,0.64,us,us7000hjt1,2022-06-24T01:46:59.040Z,"28 km NNW of K?sh, Iran",earthquake,8.8,2,0.103,26,reviewed,us,us
+2011-10-19T00:58:03.600Z,26.776,53.752,14.1,4.4,mb,64,119.4,,,us,usp000j9hg,2014-11-07T01:46:07.838Z,"35 km NW of K?sh, Iran",earthquake,,,,12,reviewed,teh,us
+2022-06-22T02:38:53.212Z,26.7734,54.3449,10,4.2,mb,,77,2.473,0.56,us,us7000hj61,2022-06-29T01:13:48.663Z,"40 km NE of K?sh, Iran",earthquake,5.5,1.8,0.108,24,reviewed,us,us
+2014-05-30T09:26:16.000Z,26.76,53.92,16,4.6,mb,,,,0.93,us,usc000r90l,2014-08-26T01:21:04.000Z,"24 km NNW of K?sh, Iran",earthquake,,3.4,0.059,87,reviewed,teh,us
+2019-07-22T22:59:02.026Z,26.759,55.0084,10,5,mww,,69,2.103,0.7,us,us70004qwn,2019-10-04T16:37:39.040Z,"25 km NNE of Bandar-e Lengeh, Iran",earthquake,7.7,1.8,0.086,13,reviewed,us,us
+2020-06-27T05:58:37.546Z,26.752,55.8163,10,4.1,mb,,121,1.832,0.46,us,us7000ah90,2020-09-05T17:35:41.040Z,"50 km WSW of Qeshm, Iran",earthquake,9.3,1.9,0.123,18,reviewed,us,us
+2014-04-25T20:59:47.770Z,26.7507,53.8664,11.16,5,mb,,30,2.769,0.87,us,usb000pzyv,2022-05-03T16:48:45.636Z,"26 km NW of K?sh, Iran",earthquake,,3.6,0.045,160,reviewed,us,us
+2014-01-09T08:31:29.800Z,26.75,53.95,15,5,mb,,,,1.08,us,usc000lz8y,2022-05-03T16:37:27.627Z,"22 km NNW of K?sh, Iran",earthquake,,2.4,0.052,117,reviewed,thr,us
+2014-01-09T06:13:03.800Z,26.742,53.95,16,4.3,mb,,,,1.02,us,usc000lz87,2014-03-15T03:38:43.000Z,"21 km NNW of K?sh, Iran",earthquake,,4.9,0.1,30,reviewed,teh,us
+2011-09-23T22:12:40.600Z,26.742,55.844,21.8,4,mb,11,171.3,,,us,usp000j8fv,2014-11-07T01:45:56.818Z,"48 km WSW of Qeshm, Iran",earthquake,,,,5,reviewed,teh,us
+2014-01-10T14:30:41.000Z,26.74,53.99,9,4.3,mb,,,,1.18,us,usb000m7f0,2014-03-15T03:38:59.000Z,"20 km N of K?sh, Iran",earthquake,,4.7,0.178,9,reviewed,teh,us
+2010-01-13T10:22:13.170Z,26.737,53.567,10,4.8,mb,86,98.3,,0.91,us,usp000h62k,2014-11-07T01:40:27.426Z,"49 km WNW of K?sh, Iran",earthquake,,,,15,reviewed,us,us
+2022-07-02T01:14:53.557Z,26.7337,55.2378,10,4.2,mb,14,113,1.982,1.07,us,us6000hzaj,2022-07-02T02:01:47.353Z,"40 km ENE of Bandar-e Lengeh, Iran",earthquake,9.7,1.9,0.137,15,reviewed,us,us
+2019-11-06T08:37:24.231Z,26.7301,55.1342,10,4.5,mb,,58,2.022,1.16,us,us700063w2,2020-02-01T23:21:40.040Z,"31 km NE of Bandar-e Lengeh, Iran",earthquake,7.2,1.9,0.096,32,reviewed,us,us
+2015-07-03T12:37:36.000Z,26.73,54.86,11,3.8,mb,,,,1.38,us,us20002yxl,2015-09-30T00:20:53.040Z,"19 km N of Bandar-e Lengeh, Iran",earthquake,4,5.6,0.208,6,reviewed,teh,us
+2014-01-11T21:02:23.580Z,26.7274,53.8482,10,4.1,mb,,120,2.767,0.85,us,usb000m8ru,2014-03-15T03:39:13.000Z,"25 km NW of K?sh, Iran",earthquake,,1.8,0.117,20,reviewed,us,us
+2011-11-20T07:20:16.600Z,26.727,55.35,38.5,4.3,mb,28,108.3,,,us,usp000jb55,2014-11-07T01:46:23.185Z,"50 km ENE of Bandar-e Lengeh, Iran",earthquake,,,,16,reviewed,thr,us
+2022-06-25T03:37:13.976Z,26.7253,54.2613,10,5.6,mww,,42,2.491,0.83,us,us7000hk3w,2022-07-01T22:02:12.469Z,"30 km NE of K?sh, Iran",earthquake,7.2,1.8,0.071,19,reviewed,us,us
+2014-11-13T00:39:02.100Z,26.724,53.921,12,4.8,mb,,,,0.81,us,usc000swt6,2015-02-12T01:42:37.040Z,"20 km NNW of K?sh, Iran",earthquake,5.9,3.7,0.064,81,reviewed,teh,us
+2014-07-26T10:48:39.700Z,26.724,57.192,9,3.8,mb,,,,0.72,us,usb000s0ry,2014-10-25T01:49:38.000Z,"46 km SSE of M?n?b, Iran",earthquake,,5.4,0.208,9,reviewed,teh,us
+2014-04-26T12:48:20.600Z,26.714,53.932,13.2,4.2,mb,,,,0.78,us,usb000qqyd,2014-07-14T20:11:19.000Z,"19 km NNW of K?sh, Iran",earthquake,,4.8,0.159,13,reviewed,teh,us
+2022-06-18T00:03:05.014Z,26.7099,54.2317,10,4,mb,44,79,2.499,0.57,us,us7000hi9g,2022-07-02T23:13:03.040Z,"27 km NE of K?sh, Iran",earthquake,6.4,1.7,0.09,33,reviewed,us,us
+2022-06-16T00:26:01.384Z,26.7059,54.2298,10,4,mb,,116,2.498,0.65,us,us7000hj0x,2022-06-23T02:28:35.040Z,"26 km NE of K?sh, Iran",earthquake,9.4,1.9,0.122,18,reviewed,us,us
+2022-06-16T23:48:06.456Z,26.6947,54.235,10,4.2,mb,,44,2.486,0.65,us,us7000hhzq,2022-06-27T02:30:41.040Z,"26 km NE of K?sh, Iran",earthquake,4.9,1.9,0.073,52,reviewed,us,us
+2022-06-15T18:23:07.550Z,26.6905,54.2244,10,4,mb,,116,2.49,1.2,us,us7000his6,2022-06-21T14:46:16.040Z,"25 km NE of K?sh, Iran",earthquake,10.2,1.9,0.129,16,reviewed,us,us
+2014-01-10T08:12:42.900Z,26.69,53.91,10,4.5,mb,,,,1.01,us,usc000lzvg,2015-01-30T23:22:46.206Z,"18 km NW of K?sh, Iran",earthquake,,3.6,0.077,49,reviewed,teh,us
+2022-06-15T06:06:03.165Z,26.6859,54.1869,10,5.5,mww,,56,2.512,0.97,us,us7000hhhc,2022-06-19T04:15:59.570Z,"21 km NE of K?sh, Iran",earthquake,7.2,1.8,0.061,26,reviewed,us,us
+2022-06-15T14:26:17.374Z,26.6795,54.2001,10,4.4,mb,,117,2.499,0.57,us,us7000hhjd,2022-06-22T13:17:26.040Z,"22 km NE of K?sh, Iran",earthquake,4.1,1.9,0.082,42,reviewed,us,us
+2022-06-15T06:04:39.664Z,26.674,54.1822,10,4.7,mb,,78,2.507,0.92,us,us7000hhhb,2022-06-15T06:30:28.040Z,"20 km NE of K?sh, Iran",earthquake,7.8,1.3,0.06,85,reviewed,us,us
+2022-06-15T06:15:41.766Z,26.6727,54.2211,10,4.5,mb,,75,2.48,0.95,us,us7000hirf,2022-06-22T06:09:31.040Z,"23 km ENE of K?sh, Iran",earthquake,3.8,1.9,0.092,35,reviewed,us,us
+2022-06-16T00:40:48.001Z,26.671,54.353,10,4.6,mb,,74,2.395,0.45,us,us7000hhp7,2022-06-24T02:53:39.040Z,"35 km ENE of K?sh, Iran",earthquake,7.3,1.8,0.055,98,reviewed,us,us
+2022-06-24T13:32:27.379Z,26.6697,54.22,10,4.3,mb,42,80,2.479,0.3,us,us6000hyl5,2022-07-01T07:28:57.040Z,"23 km ENE of K?sh, Iran",earthquake,7.1,1.9,0.098,30,reviewed,us,us
+2020-01-24T18:31:25.773Z,26.6604,55.3366,10,4.2,mb,,74,1.878,0.84,us,us60007pjt,2020-04-11T18:21:11.040Z,"46 km ENE of Bandar-e Lengeh, Iran",earthquake,4.9,1.9,0.159,16,reviewed,us,us
+2022-06-15T06:48:54.090Z,26.6526,54.2431,10,4.9,mb,,76,2.452,0.72,us,us7000hhhk,2022-06-15T07:37:32.928Z,"24 km ENE of K?sh, Iran",earthquake,8,1.8,0.055,102,reviewed,us,us
+2022-06-15T13:16:41.087Z,26.6467,54.2489,10,4.4,mb,,73,2.444,0.45,us,us7000hhiz,2022-06-22T12:30:52.040Z,"24 km ENE of K?sh, Iran",earthquake,8.1,1.9,0.065,69,reviewed,us,us
+2022-06-18T16:44:48.852Z,26.6409,54.1919,10,4.9,mb,,76,2.478,0.84,us,us7000hied,2022-06-19T03:52:30.717Z,"19 km ENE of K?sh, Iran",earthquake,4.6,1.8,0.052,118,reviewed,us,us
+2022-06-15T05:59:21.953Z,26.6363,54.2647,10,4.6,mb,,75,2.427,1,us,us7000hhha,2022-06-15T06:55:10.040Z,"25 km ENE of K?sh, Iran",earthquake,8.5,1.9,0.073,55,reviewed,us,us
+2017-08-06T09:24:39.360Z,26.6317,55.428,10,3.9,mb,,113,1.819,1.17,us,us2000a6va,2017-10-25T00:38:00.040Z,"55 km E of Bandar-e Lengeh, Iran",earthquake,10.6,1.9,0.17,9,reviewed,us,us
+2022-06-15T20:58:12.809Z,26.6284,54.2253,10,4.2,mb,,76,2.447,1.33,us,us7000hhma,2022-06-21T15:22:52.040Z,"21 km ENE of K?sh, Iran",earthquake,6,1.9,0.11,23,reviewed,us,us
+2022-06-20T02:38:27.791Z,26.6211,54.1969,10,4.3,mb,,90,2.461,0.71,us,us7000hjx6,2022-06-28T01:13:06.040Z,"19 km ENE of K?sh, Iran",earthquake,6.6,2,0.168,10,reviewed,us,us
+2022-06-15T23:52:06.819Z,26.6164,54.259,10,4,mb,,118,2.417,0.74,us,us7000hhnx,2022-06-23T02:09:41.040Z,"24 km ENE of K?sh, Iran",earthquake,5.5,1.9,0.139,14,reviewed,us,us
+2022-06-21T07:05:05.247Z,26.6153,54.1729,10,4.3,mb,,84,2.473,1.03,us,us7000hiy7,2022-06-28T12:22:02.040Z,"16 km ENE of K?sh, Iran",earthquake,10.3,1.9,0.142,14,reviewed,us,us
+2022-06-16T00:23:02.819Z,26.6148,54.2823,10,4.4,mb,,76,2.401,0.38,us,us7000hhp4,2022-06-23T02:21:25.040Z,"26 km ENE of K?sh, Iran",earthquake,8.2,1.9,0.068,61,reviewed,us,us
+2022-06-18T17:01:43.623Z,26.6139,54.184,10,4.4,mb,,79,2.465,1.17,us,us7000hiej,2022-06-18T20:21:59.040Z,"17 km ENE of K?sh, Iran",earthquake,6.6,1.9,0.068,63,reviewed,us,us
+2016-01-04T03:05:48.070Z,26.6051,55.4464,10,4.4,mb,,42,0.834,0.98,us,us10004b41,2016-03-28T22:09:35.040Z,"56 km E of Bandar-e Lengeh, Iran",earthquake,3.5,1.9,0.084,41,reviewed,us,us
+2022-06-17T13:08:37.691Z,26.6036,54.2059,10,4.3,mb,,77,2.443,0.58,us,us7000hi3t,2022-06-27T06:08:20.040Z,"19 km ENE of K?sh, Iran",earthquake,8.2,1.9,0.077,48,reviewed,us,us
+2019-10-18T04:09:39.062Z,26.594,55.1051,10,4.2,mb,,104,1.917,1.2,us,us70005v9x,2020-01-03T16:09:27.040Z,"22 km E of Bandar-e Lengeh, Iran",earthquake,7.3,1.9,0.121,19,reviewed,us,us
+2014-02-01T11:43:25.200Z,26.58,53.9,10,4.1,mb,,,,0.44,us,usc000mqmy,2014-04-08T01:43:20.000Z,"12 km WNW of K?sh, Iran",earthquake,,1.9,0.151,13,reviewed,teh,us
+2016-01-01T23:17:29.490Z,26.5711,55.1188,10,4.3,mb,,107,1.891,0.54,us,us10004ddg,2016-03-28T22:09:32.040Z,"23 km E of Bandar-e Lengeh, Iran",earthquake,10.7,2,0.154,12,reviewed,us,us
+2022-06-15T11:50:32.167Z,26.5655,54.1404,10,4.4,mb,44,120,2.463,0.65,us,us7000hhij,2022-07-02T07:39:56.040Z,"12 km E of K?sh, Iran",earthquake,6.8,1.8,0.095,32,reviewed,us,us
+2022-06-14T14:09:43.093Z,26.5651,54.1698,10,4.7,mb,,78,2.442,0.77,us,us7000hhbb,2022-06-19T19:32:03.040Z,"15 km E of K?sh, Iran",earthquake,7.6,1.9,0.068,69,reviewed,us,us
+2022-06-15T05:55:01.691Z,26.5607,54.1625,10,4.7,mb,,80,2.444,1.34,us,us7000hhh9,2022-06-15T06:58:44.983Z,"14 km E of K?sh, Iran",earthquake,8,1.9,0.066,70,reviewed,us,us
+2013-09-17T16:19:40.710Z,26.5581,55.7239,10,4.2,mb,,113,4.229,1.02,us,usb000jyf7,2013-12-09T21:11:07.000Z,"66 km NW of Dib Dibba, Oman",earthquake,,1.8,0.176,,reviewed,us,us
+2020-03-04T15:36:18.398Z,26.5534,55.4804,10,4.2,mb,,83,1.729,0.76,us,us600089fa,2020-05-23T22:03:30.040Z,"59 km E of Bandar-e Lengeh, Iran",earthquake,4.7,1.9,0.096,30,reviewed,us,us
+2022-06-15T18:07:50.679Z,26.5445,54.222,10,4,mb,,120,2.394,0.97,us,us7000hhl5,2022-06-21T14:27:16.040Z,"20 km E of K?sh, Iran",earthquake,7.8,1.9,0.125,17,reviewed,us,us
+2014-05-27T05:44:29.700Z,26.543,55.905,14.3,5.1,mb,,,,1.23,us,usb000r505,2022-05-03T16:52:13.424Z,"51 km NW of Dib Dibba, Oman",earthquake,,3.3,0.052,123,reviewed,teh,us
+2015-08-27T00:24:22.000Z,26.541,55.877,11,4.2,mb,,,,1.38,us,us10003573,2015-12-01T00:35:57.040Z,"53 km NW of Dib Dibba, Oman",earthquake,4.6,3.6,0.14,14,reviewed,teh,us
+2013-05-14T13:43:00.640Z,26.529,57.431,10,4,mb,22,102.5,,1.2,us,us2013qecz,2014-11-07T01:50:48.252Z,"74 km SSE of M?n?b, Iran",earthquake,,0,,4,reviewed,us,us
+2022-06-15T09:37:48.555Z,26.516,54.1052,10,4.1,mb,37,122,2.455,0.53,us,us7000hhi3,2022-07-02T07:05:59.166Z,"9 km ESE of K?sh, Iran",earthquake,6.2,1.9,0.107,24,reviewed,us,us
+2022-06-24T23:47:23.914Z,26.4942,54.1624,10,4.1,mb,31,122,2.402,0.32,us,us7000hk35,2022-07-02T22:51:35.299Z,"15 km ESE of K?sh, Iran",earthquake,8.5,1.7,0.12,19,reviewed,us,us
+2022-06-15T14:32:13.900Z,26.4707,54.2449,10,4.1,mb,,121,2.33,0.36,us,us7000hirw,2022-06-22T13:47:07.040Z,"24 km ESE of K?sh, Iran",earthquake,10.1,1.9,0.157,11,reviewed,us,us
+2014-11-23T13:17:59.900Z,26.47,56.59,16,4.9,mb,,,,0.92,us,usb000szau,2015-02-18T03:30:55.040Z,"44 km NE of Dib Dibba, Oman",earthquake,4.5,3.4,0.047,145,reviewed,thr,us
+2014-02-02T14:46:41.770Z,26.4447,57.3909,10,4,mb,,123,1.837,1.08,us,usc000msqe,2014-04-08T01:43:23.000Z,"81 km SSE of M?n?b, Iran",earthquake,,1.9,0.3,5,reviewed,us,us
+2015-04-27T05:34:31.500Z,26.42,53.568,20,4.8,mb,,,,0.85,us,us200029j2,2015-07-03T00:23:43.040Z,"47 km WSW of K?sh, Iran",earthquake,7.1,4.1,0.052,114,reviewed,teh,us
+2022-06-25T03:43:59.875Z,26.4087,54.293,10,4.6,mb,18,165,2.257,0.59,us,us6000hyst,2022-07-01T22:41:00.188Z,"31 km ESE of K?sh, Iran",earthquake,13.6,1.9,0.274,5,reviewed,us,us
+2013-05-12T00:06:59.800Z,26.404,57.522,17.6,5.5,mwb,298,29.2,,,us,usc000guh1,2022-05-03T16:17:55.677Z,"91 km SSE of M?n?b, Iran",earthquake,,,,,reviewed,thr,us
+2010-11-14T14:49:27.430Z,26.398,57.223,10,4.5,mb,26,140.6,,0.95,us,usp000hpm6,2014-11-07T01:42:55.128Z,"82 km S of M?n?b, Iran",earthquake,,0,,4,reviewed,us,us
+2014-07-30T01:32:10.330Z,26.3803,53.5163,12.46,5.3,mwb,,36,1.006,0.77,us,usb000ryha,2022-05-03T17:42:42.228Z,"53 km WSW of K?sh, Iran",earthquake,,3,0.05,38,reviewed,us,us
+2020-07-25T17:48:01.465Z,26.3572,56.4855,10,4,mb,,143,1.428,1.13,us,us7000bdal,2020-10-03T17:32:42.040Z,"28 km NE of Dib Dibba, Oman",earthquake,9.4,1.9,0.102,27,reviewed,us,us
+2022-06-16T04:44:49.320Z,26.3419,54.4549,10,4.2,mb,,205,8.595,0.45,us,us7000hj0w,2022-06-22T03:09:43.040Z,"48 km WSW of Bandar-e Lengeh, Iran",earthquake,13.4,2,0.159,11,reviewed,us,us
+2014-08-16T12:52:36.700Z,26.3,53.63,10,4.2,mb,,,,0.72,us,usc000s7mw,2014-11-15T04:07:11.000Z,"48 km SW of K?sh, Iran",earthquake,,4.5,0.153,14,reviewed,teh,us
+2014-07-30T15:11:39.360Z,26.2818,53.5209,10,4.3,mb,,140,2.764,0.6,us,usb000s1up,2014-10-29T19:52:49.000Z,"58 km WSW of K?sh, Iran",earthquake,,1.9,0.142,17,reviewed,us,us
+2014-07-31T20:07:35.180Z,26.2217,53.7412,10,4.2,mb,,146,2.561,0.98,us,usb000s24z,2014-10-29T19:52:52.000Z,"46 km SW of K?sh, Iran",earthquake,,2,0.305,3,reviewed,us,us
+2019-10-31T15:43:59.157Z,26.158,54.7286,10,5,mb,,45,1.798,1.01,us,us700061lx,2020-01-18T20:00:50.040Z,"46 km SSW of Bandar-e Lengeh, Iran",earthquake,6.4,1.8,0.042,179,reviewed,us,us
+2019-11-04T00:18:40.970Z,26.1262,54.6997,10,4.2,mb,,89,1.797,0.79,us,us700062rd,2020-01-18T20:00:57.040Z,"51 km SSW of Bandar-e Lengeh, Iran",earthquake,7.9,1.9,0.091,34,reviewed,us,us
+2019-11-04T00:45:21.541Z,26.0591,54.7317,10,4.1,mb,,126,1.732,0.72,us,us700062rg,2020-01-18T20:00:57.040Z,"57 km SSW of Bandar-e Lengeh, Iran",earthquake,7.6,2,0.14,14,reviewed,us,us
+2012-10-21T16:13:22.880Z,25.114,56.138,25.1,4.5,mb,32,102.8,,0.95,us,usp000ju98,2015-03-24T02:26:12.907Z,"11 km WSW of Reef Al Fujairah City, United Arab Emirates",earthquake,,7.3,,2,reviewed,us,us
+2010-08-22T15:48:27.970Z,23.706,49.156,10,4,mb,26,91.5,,1.15,us,usp000hjmc,2014-11-07T01:42:17.222Z,"188 km SSW of Al Huf?f, Saudi Arabia",earthquake,,,,5,reviewed,us,us
+2015-01-29T19:12:25.540Z,23.6431,49.1942,14.17,4.2,mb,,188,3.388,0.62,us,usc000tk5g,2015-05-02T14:05:39.040Z,"194 km SSW of Al Huf?f, Saudi Arabia",earthquake,10,6.7,0.113,24,reviewed,us,us
